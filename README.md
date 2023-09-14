@@ -10,4 +10,7 @@ Explanation of posted code files:
 - "driverCodeMPC.py" is the driver code for the MPC algorithm
 - "ModelPredictiveControl.py" is the code file that implements the MPC algorithm in Python
 - "functionMPC.py"  is the code file that implements the function for calculating the response of the system
-- 
+
+The performance of the MPC algorithm for tracking a pulse trajectory is given below. 
+  
+![My Image](controlledOutputs.png)
