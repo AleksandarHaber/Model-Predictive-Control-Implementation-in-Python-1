@@ -1,5 +1,6 @@
 # Model-Predictive-Control-Implementation-in-Python-1
-READ THE LICENSE SUMMARIZED AFTER THE INTRODUCTION
+
+FIRST, READ THE LICENSE AT THE END OF THIS FILE
 
 In this repository, we post the Python codes that implement the MPC algorithm for linear systems. In the tutorial page given below we explain how to develop the MPC algorithm from scratch:
 
