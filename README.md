@@ -2,7 +2,7 @@
 
 FIRST, READ THE LICENSE AT THE END OF THIS FILE
 
-In this repository, we post the Python codes that implement the MPC algorithm for linear systems. In the tutorial page given below we explain how to develop the MPC algorithm from scratch:
+In this repository, we post the Python codes that implement the MPC algorithm for linear systems. In the tutorial page given below, we explain how to develop the MPC algorithm from scratch:
 
 https://aleksandarhaber.com/model-predictive-control-mpc-tutorial-1-unconstrained-formulation-derivation-and-implementation-in-python-from-scratch/
 
@@ -20,7 +20,7 @@ The performance of the MPC algorithm for tracking a pulse trajectory is given be
 LICENSE: 
 THIS IS NOT FREE SOFTWARE AND CODE. IF YOU WANT TO USE THIS CODE IN THE COMMERCIAL SETTING OR ACADEMIC SETTING, THAT IS, IF YOU WORK FOR A COMPANY OR IF YOU ARE AN INDEPENDENT CONSULTANT AND IF YOU WANT TO USE THIS CODE OR IF YOU ARE ACADEMIC RESEARCHER OR STUDENT, THEN WITHOUT MY PERMISSION AND WITHOUT PAYING THE PROPER FEE, YOU ARE NOT ALLOWED TO USE THIS CODE. YOU CAN CONTACT ME AT
 
-aleksandar.haber@gmail.com
+ml.mecheng@gmail.com
 
 TO INFORM YOURSELF ABOUT THE LICENSE OPTIONS AND FEES FOR USING THIS CODE.
 ALSO, IT IS NOT ALLOWED TO 
