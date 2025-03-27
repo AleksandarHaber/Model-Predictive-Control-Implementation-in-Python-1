@@ -1,8 +1,8 @@
 # Model-Predictive-Control-Implementation-in-Python-1
 
-**IMPORTANT NOTE: The code files are released under "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+IMPORTANT NOTE: The code files are released under "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 International Public License (CC BY-NC-ND 4.0.)"  
-**
+
 **Brief explanation of the license (read the complete license):**
 **Attribution (BY):** You must give appropriate credit and reference to the creator and code (citation). You need to provide a link to the license and link to the code files. 
 **NonCommercial (NC):** You may not use the material for commercial purposes. 
