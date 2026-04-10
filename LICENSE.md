@@ -1,20 +1,21 @@
-LICENSE AND COPYRIGHT NOTICE  
+Academic Use License (Non-Commercial)
+Copyright © 2026 Dr. Aleksandar Haber (ml.mecheng@gmail.com)
 
-This code repository and all listed files are the ownership of Dr. Aleksandar Haber. Dr. Aleksandar Haber is referred to as the Author in the sequel. All the files on this repository, including all the supporting files on this repository, are referred to as the material in the sequel. 
-The Author's contact is ml.mecheng@gmail.com
+Permission is hereby granted to academic researchers and students to use, share, and fork this material for non-commercial research and educational purposes only, subject to the following conditions:
 
-(1)    You have the right to download, share, fork, and use the material for personal educational use without modifying, upgrading, or integrating the material into other projects. You cannot remix, transform, or build upon the material, meaning you can only share the original work without any adaptations. That is, you have the right to use the material solely in its original and unaltered form.
+1. Scope of Use
+Permitted: Use for personal learning and academic research.
 
-(2)    The material should not be used for commercial purposes without explicit approval of the Author and/or paying an appropriate fee.  
-
-(3)    The material should not be used by engineers working in companies as a tool for their work without the explicit approval of the Author and/or paying an appropriate fee.  
-
-(4)    The material should not be used by academic staff (paid researchers, paid grad students, paid post-docs, paid professors, etc.) working in universities or research institutions as a tool in their research or for teaching other people without explicit approval of the Author and/or paying an appropriate fee.  
-
-(5)    The material should not be used for producing results in academic papers, engineering reports, books, and similar material without explicit approval of the author and possibly without paying an appropriate fee.  
-
-(6)    The material or parts of the material should not be copied and published in other commercial or open-source projects. The material should not be used to build other programs without the explicit approval of the Author and without paying an appropriate fee.  
-
-(7)    You must give appropriate credit to the Author and reference the Author and material. The citation and the reference must contain the Author’s name, the link, the name of the repository, and the date of accessing the code.  
+Prohibited: Commercial use, use by corporate engineers, or use in any revenue-generating activity is strictly forbidden without prior written consent of the author.
 
 
+2. Attribution
+Any use of this material in academic papers, reports, or presentations must include a formal citation. The reference must include:
+
+The Author’s name (Dr. Aleksandar Haber)
+
+The repository name and URL
+
+The date the material was accessed
+
+Disclaimer: This material is provided "as is" without warranty of any kind. Use at your own risk.
